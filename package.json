@@ -14,7 +14,7 @@
     "emoji-regex": "^8.0.0",
     "external-editor": "^3.1.0",
     "iconv-lite": "^0.4.24",
-    "inquirer": "^11.1.0",
+    "inquirer": "^8.2.4",
     "is-fullwidth-code-point": "^3.0.0",
     "mute-stream": "^1.0.0",
     "os-tmpdir": "^1.0.2",
